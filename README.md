@@ -8,7 +8,7 @@ using **Next.js (App Router)**, **TypeScript**, **Zustand**, **TanStack Query**,
 
 ## 🚀 Demo & Links
 
-- **Live Demo (Vercel):** [Live page](https://notehub-with-authentication-pearl-xi.vercel.app/)
+- **Live Demo (Vercel):** [Live page](https://09-auth-pearl-xi.vercel.app/)
 - **Repository:** [GitHub](https://github.com/SerdiukSerhii/notehub-with-authentication)
 
 ---
