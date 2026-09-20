@@ -8,8 +8,8 @@ using **Next.js (App Router)**, **TypeScript**, **Zustand**, **TanStack Query**,
 
 ## 🚀 Demo & Links
 
-- **Live Demo (Vercel):** [Live page](https://09-auth-pearl-xi.vercel.app/)
-- **Repository:** [GitHub](https://github.com/SerdiukSerhii/09-auth)
+- **Live Demo (Vercel):** [Live page](https://notehub-with-authentication-pearl-xi.vercel.app/)
+- **Repository:** [GitHub](https://github.com/SerdiukSerhii/notehub-with-authentication)
 
 ---
 
@@ -49,9 +49,9 @@ using **Next.js (App Router)**, **TypeScript**, **Zustand**, **TanStack Query**,
 
 1. Clone the repository and navigate to the project folder:
 
-   git clone https://github.com/SerdiukSerhii/09-auth
+   git clone https://github.com/SerdiukSerhii/notehub-with-authentication
 
-   cd 09-auth
+   cd notehub-with-authentication
 
 2. Install dependencies:
 
