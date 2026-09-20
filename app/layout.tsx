@@ -9,6 +9,9 @@ import './globals.css';
 export const metadata: Metadata = {
   title: 'NoteHub',
   description: 'A simple note-taking app.',
+  icons: {
+    icon: '/favicon.svg',
+  },
 
   openGraph: {
     title: 'NoteHub',
